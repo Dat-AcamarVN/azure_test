@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE-specific
+.idea/  # PyCharm configuration
+
+# Custom directories
+insert_data/  # Bỏ toàn bộ thư mục insert_data/
+
+# OS-specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Test and coverage (if applicable)
+.pytest_cache/
+.coverage
+.coverage.*

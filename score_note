@@ -1,0 +1,13 @@
+Response Coverage – Ensure that all rejections (e.g., under 35 USC §101, §102, §103 regarding eligibility, novelty, and non-obviousness) are addressed. Missing any rejection would result in incompleteness and may lead to a Final Action. → This is not always accurate, since an office action may not contain all types of rejections. → Also, making “title check” mandatory is not correct either, as it is not fixed.
+
+Examiner Allowance Score – Checks for an Allowance title, but not every file contains an allowance. Extracting information from the examiner within the description section has not yet been implemented, so this analysis remains unclear. Currently, only information from pages 1 and 2 can be extracted, so analysis can be done at a general document level. It may be possible to review page 2 to identify which claims have been allowed.
+
+Prior Art Distinction Clarity Score – Still unclear. Is it meant to ensure that all rejections (e.g., under 35 USC §101, §102, §103 regarding eligibility, novelty, and non-obviousness) are addressed? If so, this is not entirely accurate.
+
+Response Completeness Score – Checks whether all required sections (e.g., remarks, amendments, evidence) are included in the correct order/format. → It might be necessary to also check the claim file. Again, making “title check” mandatory is not correct since it is not fixed. Page 2 could potentially be reviewed to check claim completeness.
+
+
+
+
+- 5.11
+- 5.35

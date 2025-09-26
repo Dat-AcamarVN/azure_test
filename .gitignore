@@ -18,6 +18,9 @@ venv.bak/
 # Custom directories
 insert_data/
 
+# Sensitive files
+config.py  # Nếu không dùng biến môi trường
+
 # OS-specific
 .DS_Store
 Thumbs.db

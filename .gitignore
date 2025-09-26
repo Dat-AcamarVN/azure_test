@@ -13,16 +13,16 @@ env.bak/
 venv.bak/
 
 # IDE-specific
-.idea/  # PyCharm configuration
+.idea/
 
 # Custom directories
-insert_data/  # Bỏ toàn bộ thư mục insert_data/
+insert_data/
 
 # OS-specific
-.DS_Store  # macOS
-Thumbs.db  # Windows
+.DS_Store
+Thumbs.db
 
-# Test and coverage (if applicable)
+# Test and coverage
 .pytest_cache/
 .coverage
 .coverage.*
